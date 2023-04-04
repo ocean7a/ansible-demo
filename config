@@ -1,0 +1,8 @@
+Host github.com
+  HostName github.com
+  Port ocean7a/ansible-demo.git
+  User git
+
+Host 3.239.247.5
+  User ec2-user
+  IdentityFile "C:\Users\ocean\Downloads\oleg-stack-demo.pem"
